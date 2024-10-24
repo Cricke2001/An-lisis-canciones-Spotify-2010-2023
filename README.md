@@ -63,7 +63,7 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 ## Contacto
 
-Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue en este repositorio o contactarme directamente a través de [carlosricke.p@protonmail.com].
+Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue en este repositorio o contactarme directamente a través de [carlosricke.p@gmail.com].
 
 ---
 
